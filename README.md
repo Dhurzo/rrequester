@@ -19,7 +19,7 @@ Help: ./rrequester -h :
 
 Usage:
     ./target/debug/requester [OPTIONS]
-
+```
 Execute http requests to test REST services
 
 optional arguments:
@@ -32,19 +32,13 @@ optional arguments:
   -j,--jobs JOBS        Number of jobs
   -c,--headers HEADERS  Headers in format header:value,header:value,...
   -m,--method METHOD    Method (GET, POST or PUT) default GET
-
-
-
-
-### TODO README ###
-
-* Add usage examples.
+```
 
 ### TODO: ###
 
 * Error handling
-* ~~ More wildcards replacement ~~
-* ~~ Reduce methods complexitiy ~~
-* ~~ POST / PUT Request ~~
-* ~~ Modularity ~~
+* ~~More wildcards replacement~~
+* ~~Reduce methods complexitiy~~
+* ~~POST / PUT Request~~
+* ~~Modularity~~
 * Testing

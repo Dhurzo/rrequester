@@ -1,0 +1,10 @@
+[package]
+name = "rrequester"
+version = "0.1.0"
+authors = ["Juan Angel Lopez"]
+
+[dependencies]
+curl = "0.4.6"
+argparse = "*"
+base64 = "0.5.2"
+threadpool = "1.3.2"
